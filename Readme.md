@@ -1,7 +1,7 @@
-![log](https://github.com/rajveer9720/rajveer9720/blob/main/Dark%20Blue%20Simple%20Dark%20Tech%20and%20Gaming%20Bio-Link%20Website%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Rajveer Singh</h1>
 <h3 align="center">"Full-Stack Developer | Expert in MEARN Stack & Web3 Solutions"</h3>
+![log](https://github.com/rajveer9720/rajveer9720/blob/main/Dark%20Blue%20Simple%20Dark%20Tech%20and%20Gaming%20Bio-Link%20Website%20(1).png)
 <img align="right" alt="Conding" width="400px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 - 🌱 I’m currently learning **Nestjs , GraphQL**
 
